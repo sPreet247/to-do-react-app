@@ -4,7 +4,10 @@ const List = () => {
   return (
     <div>
       <ul>
-        <li>Buy groceries</li>
+        <li>
+          <button type='radio'></button>Buy groceries
+          <button></button>
+        </li>
         <li>Pay bills</li>
         <li>Watch movie</li>
       </ul>
